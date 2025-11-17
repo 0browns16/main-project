@@ -1,3 +1,3 @@
 # main-project
 
-Git学習用レポジトリ(mainプロジェクト)
+Github学習用のレポジトリ(mainプロジェクト)
