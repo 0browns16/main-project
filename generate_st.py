@@ -1,3 +1,3 @@
-# Stash作業中
-import re
+# テスト用Stash
 import os 
+import numpy as np
